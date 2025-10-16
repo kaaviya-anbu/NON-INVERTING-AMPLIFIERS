@@ -45,6 +45,7 @@ Non-inverting amplifier:
 ![2t](https://github.com/user-attachments/assets/22d09b34-9b81-431d-8c69-676a788c2ce6)
 
 ## CALCULATION:
+![WhatsApp Image 2025-10-16 at 22 01 43_843aef98](https://github.com/user-attachments/assets/01b50bdb-c370-47f4-b306-daad237341ef)
 
 
 
